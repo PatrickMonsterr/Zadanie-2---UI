@@ -2,9 +2,7 @@ Zadanie 2
 
 Temat: Menu główne gry oraz wyświetlacz typu HUD (heads-up display)
 
-Nazwa pliku – (NazwiskoImieZadanie2.zip np. FilipczykGrzegorzZadanie2.zip)
-Jako wynik realizacji zadania 2 należy dostarczyć skompilowaną wersję projektu (gry) dla
-systemu Windows 10/11 (bez plików źródłowych).
+
 
 Przy ocenie zadania oceniana będzie również estetyka oraz pomysłowość zaproponowanego
 rozwiązania.
